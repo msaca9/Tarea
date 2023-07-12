@@ -1,0 +1,12 @@
+C:\Users\monts\Source\Repos\ProyectInicial\ProyectInicial\bin\Debug\ProyectInicial.exe.config
+C:\Users\monts\Source\Repos\ProyectInicial\ProyectInicial\bin\Debug\ProyectInicial.exe
+C:\Users\monts\Source\Repos\ProyectInicial\ProyectInicial\bin\Debug\ProyectInicial.pdb
+C:\Users\monts\Source\Repos\ProyectInicial\ProyectInicial\obj\Debug\ProyectInicial.csproj.AssemblyReference.cache
+C:\Users\monts\Source\Repos\ProyectInicial\ProyectInicial\obj\Debug\ProyectInicial.csproj.SuggestedBindingRedirects.cache
+C:\Users\monts\Source\Repos\ProyectInicial\ProyectInicial\obj\Debug\ProyectInicial.csproj.ResolveComReference.cache
+C:\Users\monts\Source\Repos\ProyectInicial\ProyectInicial\obj\Debug\ProyectInicial.Form1.resources
+C:\Users\monts\Source\Repos\ProyectInicial\ProyectInicial\obj\Debug\ProyectInicial.Properties.Resources.resources
+C:\Users\monts\Source\Repos\ProyectInicial\ProyectInicial\obj\Debug\ProyectInicial.csproj.GenerateResource.cache
+C:\Users\monts\Source\Repos\ProyectInicial\ProyectInicial\obj\Debug\ProyectInicial.csproj.CoreCompileInputs.cache
+C:\Users\monts\Source\Repos\ProyectInicial\ProyectInicial\obj\Debug\ProyectInicial.exe
+C:\Users\monts\Source\Repos\ProyectInicial\ProyectInicial\obj\Debug\ProyectInicial.pdb
